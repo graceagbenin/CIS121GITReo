@@ -1,0 +1,4 @@
+C:\Users\grafu\Desktop\CIS 122\QuizCalculator\obj\Debug\net8.0\QuizCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grafu\Desktop\CIS 122\QuizCalculator\obj\Debug\net8.0\QuizCalculator.AssemblyInfoInputs.cache
+C:\Users\grafu\Desktop\CIS 122\QuizCalculator\obj\Debug\net8.0\QuizCalculator.AssemblyInfo.cs
+C:\Users\grafu\Desktop\CIS 122\QuizCalculator\obj\Debug\net8.0\QuizCalculator.csproj.CoreCompileInputs.cache
